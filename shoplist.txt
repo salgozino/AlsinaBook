@@ -7,3 +7,4 @@
 * Post-edited to verify push function
 * Post-edited to verify fetch function
 * Post-editer to chech the pull function
+Everithing is working good, thanks to Roberto for the simple explanation 
