@@ -1,2 +1,3 @@
 "* Coffee" 
 "* Donut" 
+"* Milk" 
