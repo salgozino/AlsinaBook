@@ -4,4 +4,5 @@
 "* Sugar" 
 "* Bandshaw" 
 "* Anvil" 
-* Post-editted to verify push function
+* Post-edited to verify push function
+* Post-edited to verify fetch function
